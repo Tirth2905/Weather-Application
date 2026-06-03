@@ -41,3 +41,4 @@ Graceful MongoDB Fallback — If MongoDB is not running, the application continu
 
 
 OUTPUT:-
+<img width="1919" height="967" alt="Image" src="https://github.com/user-attachments/assets/41627eb7-5a81-490d-b1a9-5a914a094ca2" />

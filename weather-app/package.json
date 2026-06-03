@@ -1,0 +1,12 @@
+{
+  "name": "mern-weather-app",
+  "version": "1.0.0",
+  "description": "MERN Stack Weather Application",
+  "scripts": {
+    "install-all": "npm install --prefix server && npm install --prefix client",
+    "server": "npm start --prefix server",
+    "client": "npm start --prefix client",
+    "dev": "npm run server & npm run client",
+    "start": "npm run dev"
+  }
+}
